@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+h4{
+    background-color: black;
+}
+h2{
+    background-color: bisque;
+}
+.intro{
+    background-color: blueviolet;
+}
+.card{
+    background-color: rgba(42, 165, 134, 0.426);
+    text-shadow: blue;
+}
+#div2{
+    background-color: rgba(25, 35, 173, 0.491);
+}
+form{
+    background-color: aquamarine;
+}
+select{
+    background-color: rgb(32, 136, 1);
+}
+.blog{
+    background-color: aqua;
+    border: 5px solid rebeccapurple;
+    border-radius: 10px;
+    /* margin: 20px 50px; (top bottom & left right) */
+    /* margin: 20px 50px 80px; (top & LR & Bottom) */
+    text-align: left;
+    padding: 10px; (margin and padding aksathe kaj kore na keno)
+    /* margin: 20px 50px 30px 20px; (top,right bottom, Left) */
+}
